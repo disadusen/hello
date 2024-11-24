@@ -1,1 +1,3 @@
 hello I am Sertac
+
+I am very curious about data science and machine learning
